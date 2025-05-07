@@ -23,7 +23,21 @@ Este é meu portfólio pessoal desenvolvido com foco em responsividade, animaç�
 
 ## 📷 Preview
 
-![preview do projeto](https://placehold.co/800x400/333/fff?text=Insira+uma+imagem+de+preview+aqui)![image](https://github.com/user-attachments/assets/944665cf-e2a2-4ded-856e-6b99135e70df)
+- ✅ **Layout para Desktop**
+
+![image](https://github.com/user-attachments/assets/10a4de85-786d-4513-8cd5-e268586cda5d)
+
+
+- ✅ **Layout para Desktop menores**
+
+![image](https://github.com/user-attachments/assets/30229997-7c0b-4a19-9353-0276ba4e3666)
+
+
+- ✅ **Layout para Mobile**
+
+![image](https://github.com/user-attachments/assets/4d17ede1-fef2-4fe1-9746-8f48e82a63a5)
+
+
 
 
 
