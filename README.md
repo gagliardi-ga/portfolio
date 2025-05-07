@@ -1,5 +1,3 @@
-# portfolio
-
 # 🌐 Portfólio Pessoal
 
 Este é meu portfólio pessoal desenvolvido com foco em responsividade, animações e uma experiência visual leve e moderna. O projeto foi construído com HTML, CSS e JavaScript puro — sem uso de frameworks.
@@ -25,18 +23,7 @@ Este é meu portfólio pessoal desenvolvido com foco em responsividade, animaç�
 
 ## 📷 Preview
 
-![preview do projeto](https://placehold.co/800x400/333/fff?text=Insira+uma+imagem+de+preview+aqui)
+![preview do projeto](https://placehold.co/800x400/333/fff?text=Insira+uma+imagem+de+preview+aqui)![image](https://github.com/user-attachments/assets/944665cf-e2a2-4ded-856e-6b99135e70df)
 
----
 
-## 📦 Como executar localmente
 
-```bash
-# Clone o repositório
-git clone https://github.com/seu-usuario/seu-repo.git
-
-# Acesse a pasta
-cd seu-repo
-
-# Abra o arquivo no navegador
-# (clique duas vezes no index.html ou use Live Server)
